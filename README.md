@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Meu nome é Ítalo e sou estudante de TSI! =D
+
 <!--
 **italocostta/italocostta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
