@@ -16,7 +16,7 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 
 #
 ![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=dark) </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact)](https://github.com/italocostta/github-readme-stats)
 #
 Aqui você pode conferir meu LinkedIn 👇
 
