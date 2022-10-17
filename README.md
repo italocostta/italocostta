@@ -1,8 +1,7 @@
 ## Olá, me chamo Ítalo. Seja bem-vindo(a) ao meu repositório. 👋
 Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução vou incrementando novos conteúdos.
 
-## Tecnologias que utilizo atualmente
-
+## Tecnologias que utilizo atualmente </br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 #
 ## Tecnologias nas quais ja tive contato e experiência
