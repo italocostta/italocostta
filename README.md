@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, me chamo Ítalo. Seja bem-vindo(a) ao meu repositório. 👋
+Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução vou incrementando novos conteúdos.
 
-<!--
-**italocostta/italocostta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que utilizo atualmente
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#
+![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=dark) </br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#
+Aqui você pode conferir meu LinkedIn 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
