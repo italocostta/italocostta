@@ -25,7 +25,7 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 ![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact)](https://github.com/italocostta/github-readme-stats)
 #
-## Aqui você pode entrar em contato comigo nas minhas rede sociais 👇
+## 👇 Aqui você pode entrar em contato comigo nas minhas rede sociais 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italocostta/)
