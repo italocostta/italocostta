@@ -1,18 +1,18 @@
-# Olá, me chamo Ítalo e seja bem-vindo(a) ao meu repositório. 👋
+# 👋 Olá, me chamo Ítalo e seja bem-vindo(a) ao meu repositório
 Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução vou incrementando novos conteúdos.
 
-# Um pouco sobre mim 👤
+# 👤 Um pouco sobre mim 
 
 * Tenho 25 anos e sou de João Pessoa - Paraíba.
 * Desde pequeno apaixonado por tecnologia.
 * Sou graduando em Sistemas para Internet no IFPB.
 * Meu hobby é juntar os amigos pra jogar jogos online em geral.
 
-# Tecnologias que estudo atualmente
+# 📚 Tecnologias que estudo atualmente
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 #
-# Tecnologias nas quais ja tive contato e experiência
+# 💻 Tecnologias nas quais ja tive contato e experiência
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
