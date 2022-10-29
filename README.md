@@ -8,7 +8,7 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 * Sou graduando em Sistemas para Internet no IFPB.
 * Meu hobby é juntar os amigos pra jogar jogos online em geral.
 
-# Tecnologias que utilizo atualmente
+# Tecnologias que estudo atualmente
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 #
@@ -22,7 +22,7 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #
-![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=dark) </br></br>
+![Italo Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact)](https://github.com/italocostta/github-readme-stats)
 #
 ## Aqui você pode entrar em contato comigo nas minhas rede sociais 👇
