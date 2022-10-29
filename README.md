@@ -1,4 +1,4 @@
-# Olá, me chamo Ítalo. Seja bem-vindo(a) ao meu repositório. 👋
+# Olá, me chamo Ítalo e seja bem-vindo(a) ao meu repositório. 👋
 Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução vou incrementando novos conteúdos.
 
 # Um pouco sobre mim 👤
