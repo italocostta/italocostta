@@ -27,6 +27,8 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
   <a href="https://github.com/italocostta">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=shades-of-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=default&theme=shades-of-purple)](https://github.com/italocostta/github-readme-stats"/>
+  </div>
+  
 #
 ## 👇 Aqui você pode entrar em contato comigo nas minhas rede sociais 
 
