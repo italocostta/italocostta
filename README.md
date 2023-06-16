@@ -21,15 +21,9 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #
-
- <a href="https://github.com/italocostta">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&theme=shades-of-purple"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=default&theme=shades-of-purple"/>
  
   
 #
-## 👇 Aqui você pode entrar em contato comigo nas minhas rede sociais 
+## 👇 Rede sociais 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italocostta/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_italocostta)
