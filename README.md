@@ -3,10 +3,9 @@ Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução v
 
 # 👤 Um pouco sobre mim 
 
-* Tenho 25 anos e sou de João Pessoa - Paraíba.
+* Tenho 26 anos e sou de João Pessoa - Paraíba.
 * Desde pequeno apaixonado por tecnologia.
 * Sou graduando em Sistemas para Internet no IFPB.
-* Meu hobby é juntar os amigos pra jogar jogos online em geral.
 
 # 📚 Tecnologias que estudo atualmente
 
