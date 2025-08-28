@@ -89,7 +89,6 @@ _Já utilizei em projetos acadêmicos e pessoais:_
 
 <br/>
 <br/>
-<br/>
 
 ---
 ### Encontre-me no LinkedIn
