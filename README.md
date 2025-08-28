@@ -1,37 +1,112 @@
-# 👋 Olá, me chamo Ítalo e seja bem-vindo(a) ao meu repositório
-Aqui você poderá ver meus estudos realizados, a cada apredizado e evolução vou incrementando novos conteúdos.
+# 👨🏾‍💻 Ítalo Costa
 
-# 👤 Um pouco sobre mim 
+**`Desenvolvedor Back-end`**
 
-* Tenho 27 anos e sou de João Pessoa - Paraíba.
-* Sou graduando em Sistemas para Internet no IFPB.
-* Apaixonado por tecnologia.
-* Área de aptidão para desenvolvimento: Backend.
+Sou estudante de **Sistemas para Internet** no IFPB, apaixonado por tecnologia e focado em **desenvolvimento backend**. Aqui compartilho meus estudos, projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
 
-# 📚 Tecnologias que estudo atualmente
+## 💻 Tecnologias em foco
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+_Atualmente estudando e desenvolvendo com:_
 
-#
-# 💻 Tecnologias nas quais ja tive contato e experiência
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<img
+    align="left"
+    alt="NESTJS"
+    title="NESTJS"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
 
+<img
+    align="left"
+    alt="TYPESCRIPT"
+    title="TYPESCRIPT"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
- 
+<img
+    align="left"
+    alt="NODEJS"
+    title="NODEJS"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+
+<img
+    align="left"
+    alt="POSTGRES"
+    title="POSTGRES"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
+
+<br/>
+<br/>
+
+## 💻 Tecnologias já estudadas
+
+_Já utilizei em projetos acadêmicos e pessoais:_
+
+<img
+    align="left"
+    alt="JAVA"
+    title="JAVA"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+
+<img
+    align="left"
+    alt="SPRING"
+    title="SPRING"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+
+<img
+    align="left"
+    alt="ANGULAR"
+    title="ANGULAR"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"/>
+
+<img
+    align="left"
+    alt="REACT"
+    title="REACT"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+
+<img
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="40px"
+    style="padding-right: 10px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+<div style="display: flex; align-items: center; gap: 16px; font-size: 1.5em; margin-top: 24px;">
+  <span>Encontre-me no Linkedin</span>
+  <a href="https://www.linkedin.com/in/italocostta/" target="_blank" style="display: flex; align-items: center;">
+    <img
+        alt="LinkedIn"
+        title="LinkedIn"
+        width="40px"
+        style="vertical-align: middle;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  </a>
+</div>
+  </span>
   
-#
-## 👇 Rede sociais 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
+</div>
+<div style="font-size: 1.8em">
+</div>
+</div>
