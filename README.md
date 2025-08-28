@@ -92,21 +92,13 @@ _Já utilizei em projetos acadêmicos e pessoais:_
 <br/>
 
 ---
-
-<div style="display: flex; align-items: center; gap: 16px; font-size: 1.5em; margin-top: 24px;">
-  <span>Encontre-me no Linkedin</span>
-  <a href="https://www.linkedin.com/in/italocostta/" target="_blank" style="display: flex; align-items: center;">
-    <img
-        alt="LinkedIn"
-        title="LinkedIn"
-        width="40px"
-        style="vertical-align: middle;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-  </a>
-</div>
-  </span>
-  
-</div>
-<div style="font-size: 1.8em">
-</div>
-</div>
+### Encontre-me no LinkedIn
+<a href="https://www.linkedin.com/in/italocostta/" target="_blank">
+  <img
+      align="left"
+      alt="LinkedIn"
+      title="LinkedIn"
+      width="80px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"/>
+</a>
