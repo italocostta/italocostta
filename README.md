@@ -1,15 +1,16 @@
 # 👋 Olá, eu sou o Ítalo Costa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&width=520&lines=Desenvolvedor+Full-stack;TypeScript+de+ponta+a+ponta;NestJS+no+back-end%2C+React+no+front-end;Atualmente+aprendendo+Go)](https://github.com/italocostta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3178C6&width=520&lines=Foco%2C+resili%C3%AAncia+e+evolu%C3%A7%C3%A3o+constante;Transformando+desafios+em+solu%C3%A7%C3%B5es;Disciplina+e+consist%C3%AAncia+todos+os+dias)](https://github.com/italocostta)
 
 Desenvolvedor **Full-stack** graduado em Sistemas para Internet pelo IFPB. Construo aplicações web completas com **TypeScript de ponta a ponta** — do backend em NestJS à interface em React — sempre focado em código bem estruturado, escalável e de fácil manutenção.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italocostta)
 
 ---
 
 ## 🛠️ Tecnologias
+
+**Trabalho atualmente com...**
 
 **Backend**
 
@@ -28,7 +29,7 @@ Desenvolvedor **Full-stack** graduado em Sistemas para Internet pelo IFPB. Const
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Também já trabalhei com**
+**Tenho conhecimentos com**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
