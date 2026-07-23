@@ -1,103 +1,44 @@
-# 👨🏾‍💻 Ítalo Costa
+# 👋 Olá, eu sou o Ítalo Costa
 
-**`Desenvolvedor Back-end`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3178C6&width=520&lines=Foco%2C+resili%C3%AAncia+e+evolu%C3%A7%C3%A3o+constante;Transformando+desafios+em+solu%C3%A7%C3%B5es;Disciplina+e+consist%C3%AAncia+todos+os+dias)](https://github.com/italocostta)
 
-Sou estudante de **Sistemas para Internet** no IFPB, apaixonado por tecnologia e focado em **desenvolvimento backend**. Aqui compartilho meus estudos, projetos acadêmicos e pessoais, sempre buscando evoluir como desenvolvedor.
+Desenvolvedor **Full-stack** graduado em Sistemas para Internet pelo IFPB. Construo aplicações web completas com **TypeScript de ponta a ponta** — do backend em NestJS à interface em React — sempre focado em código bem estruturado, escalável e de fácil manutenção.
 
-## 💻 Tecnologias em foco
-
-_Atualmente estudando e desenvolvendo com:_
-
-<img
-    align="left"
-    alt="NESTJS"
-    title="NESTJS"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-
-<img
-    align="left"
-    alt="TYPESCRIPT"
-    title="TYPESCRIPT"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-
-<img
-    align="left"
-    alt="NODEJS"
-    title="NODEJS"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-
-<img
-    align="left"
-    alt="POSTGRES"
-    title="POSTGRES"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
-
-<br/>
-<br/>
-
-## 💻 Tecnologias já estudadas
-
-_Já utilizei em projetos acadêmicos e pessoais:_
-
-<img
-    align="left"
-    alt="JAVA"
-    title="JAVA"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-
-<img
-    align="left"
-    alt="SPRING"
-    title="SPRING"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
-
-<img
-    align="left"
-    alt="ANGULAR"
-    title="ANGULAR"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"/>
-
-<img
-    align="left"
-    alt="REACT"
-    title="REACT"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-
-<img
-    align="left"
-    alt="PYTHON"
-    title="PYTHON"
-    width="40px"
-    style="padding-right: 10px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-
-<br/>
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
 
 ---
-### Encontre-me no LinkedIn
-<a href="https://www.linkedin.com/in/italocostta/" target="_blank">
-  <img
-      align="left"
-      alt="LinkedIn"
-      title="LinkedIn"
-      width="80px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"/>
-</a>
+
+## 🛠️ Tecnologias
+
+**Trabalho atualmente com...**
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Aprendendo agora** — *APIs performáticas, concorrência e microsserviços*
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Tenho conhecimentos com**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact&hide_border=true&langs_count=8&theme=github_dark)
