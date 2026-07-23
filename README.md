@@ -1,61 +1,43 @@
-<h1 align="center">👨🏾‍💻 Ítalo Costa</h1>
+# 👋 Olá, eu sou o Ítalo Costa
 
-<p align="center">
-  <b>Desenvolvedor Full-stack</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3178C6&width=520&lines=Desenvolvedor+Full-stack;TypeScript+de+ponta+a+ponta;NestJS+no+back-end%2C+React+no+front-end;Atualmente+aprendendo+Go)](https://github.com/italocostta)
 
-<p align="center">
-  Graduado em <b>Sistemas para Internet</b> pelo IFPB, atuo construindo aplicações web completas
-  com <b>TypeScript de ponta a ponta</b> — do backend em NestJS à interface em React.<br/>
-  Foco em código bem estruturado, escalável e de fácil manutenção.
-</p>
+Desenvolvedor **Full-stack** graduado em Sistemas para Internet pelo IFPB. Construo aplicações web completas com **TypeScript de ponta a ponta** — do backend em NestJS à interface em React — sempre focado em código bem estruturado, escalável e de fácil manutenção.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/italocostta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/italocostta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italocostta/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italocostta)
 
 ---
 
-<h2 align="center">🛠️ Stack principal</h2>
+## 🛠️ Tecnologias
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,typescript,postgres" alt="NestJS, Node.js, TypeScript, PostgreSQL"/>
-</p>
+**Backend**
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,typescript" alt="React, Vite, TypeScript"/>
-</p>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Frontend**
 
-<h2 align="center">📚 Aprendendo agora</h2>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p align="center"><i>Estudando <b>Go</b>, focado em APIs performáticas, concorrência e microsserviços.</i></p>
+**Aprendendo agora** — *APIs performáticas, concorrência e microsserviços*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
-</p>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
+**Também já trabalhei com**
 
-<h2 align="center">🧰 Também já trabalhei com</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python" alt="Java, Spring, Angular, Python"/>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="Linguagens mais usadas"/>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact&hide_border=true&langs_count=8&theme=github_dark)
