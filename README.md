@@ -1,13 +1,13 @@
 <h1 align="center">👨🏾‍💻 Ítalo Costa</h1>
 
 <p align="center">
-  <b>Desenvolvedor Back-end</b>
+  <b>Desenvolvedor Full-stack</b>
 </p>
 
 <p align="center">
-  Estudante de <b>Sistemas para Internet</b> no IFPB, apaixonado por tecnologia e focado em
-  desenvolvimento <b>backend</b>.<br/>
-  Aqui compartilho meus estudos, projetos acadêmicos e pessoais — sempre buscando evoluir como desenvolvedor.
+  Graduado em <b>Sistemas para Internet</b> pelo IFPB, atuo construindo aplicações web completas
+  com <b>TypeScript de ponta a ponta</b> — do backend em NestJS à interface em React.<br/>
+  Foco em código bem estruturado, escalável e de fácil manutenção.
 </p>
 
 <p align="center">
@@ -21,20 +21,34 @@
 
 ---
 
-<h2 align="center">🚀 Tecnologias em foco</h2>
+<h2 align="center">🛠️ Stack principal</h2>
 
-<p align="center"><i>Atualmente estudando e desenvolvendo com:</i></p>
-
+<p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,typescript,nodejs,postgres" alt="NestJS, TypeScript, Node.js, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,typescript,postgres" alt="NestJS, Node.js, TypeScript, PostgreSQL"/>
 </p>
 
-<h2 align="center">🧰 Tecnologias já estudadas</h2>
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,typescript" alt="React, Vite, TypeScript"/>
+</p>
 
-<p align="center"><i>Já utilizei em projetos acadêmicos e pessoais:</i></p>
+---
+
+<h2 align="center">📚 Aprendendo agora</h2>
+
+<p align="center"><i>Estudando <b>Go</b>, focado em APIs performáticas, concorrência e microsserviços.</i></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python" alt="Java, Spring, Angular, React, Python"/>
+  <img src="https://skillicons.dev/icons?i=go" alt="Go"/>
+</p>
+
+---
+
+<h2 align="center">🧰 Também já trabalhei com</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python" alt="Java, Spring, Angular, Python"/>
 </p>
 
 ---
