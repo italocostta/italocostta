@@ -38,7 +38,6 @@ Desenvolvedor **Full-stack** graduado em Sistemas para Internet pelo IFPB. Const
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Atividade no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italocostta&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=italocostta&layout=compact&hide_border=true&langs_count=8&theme=github_dark)
+![Streak do GitHub](https://streak-stats.demolab.com?user=italocostta&theme=github-dark&hide_border=true&border_radius=8)
